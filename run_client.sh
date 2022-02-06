@@ -1,6 +1,6 @@
 #!/bin/bash
 
-declare -i client_counts=15
+declare -i client_counts=100
 declare -i one=1
 declare -i epochs=10
 declare -i batch_size=64
