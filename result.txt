@@ -1,0 +1,291 @@
+MFCC= 40
+Gamma=0, Epochs=300, Lr=0.005, NMI=0.00165, ARI=-0.02135, Train accuracy=0.28974, Test accuracy=0.25926
+Gamma=3, Epochs=300, Lr=0.005, NMI=0.00695, ARI=0.00643, Train accuracy=0.79205, Test accuracy=0.81019
+Gamma=6, Epochs=300, Lr=0.005, NMI=0.55534, ARI=0.71865, Train accuracy=0.93248, Test accuracy=0.80864
+Gamma=9, Epochs=300, Lr=0.005, NMI=0.52569, ARI=0.68469, Train accuracy=0.92245, Test accuracy=0.80556
+Gamma=0, Epochs=200, Lr=0.005, NMI=0.00806, ARI=-0.03341, Train accuracy=0.75231, Test accuracy=0.76852
+Gamma=0.5, Epochs=200, Lr=0.005, NMI=0.53808, ARI=0.7048, Train accuracy=0.92901, Test accuracy=0.81944
+Gamma=1, Epochs=200, Lr=0.005, NMI=0.5306, ARI=0.69105, Train accuracy=0.92438, Test accuracy=0.82099
+Gamma=3, Epochs=200, Lr=0.005, NMI=0.55417, ARI=0.71913, Train accuracy=0.93287, Test accuracy=0.83796
+Gamma=5, Epochs=200, Lr=0.005, NMI=0.66823, ARI=0.80644, Train accuracy=0.95602, Test accuracy=0.8071
+Gamma=7, Epochs=200, Lr=0.005, NMI=0.65941, ARI=0.80268, Train accuracy=0.95486, Test accuracy=0.81327
+Gamma=9, Epochs=200, Lr=0.005, NMI=0.59497, ARI=0.75336, Train accuracy=0.94174, Test accuracy=0.82716
+Gamma=10, Epochs=200, Lr=0.005, NMI=0.56556, ARI=0.72744, Train accuracy=0.9348, Test accuracy=0.80247
+Gamma=0, Epochs=200, Lr=0.0001, NMI=0.01392, ARI=0.0627, Train accuracy=0.31674, Test accuracy=0.3071
+Gamma=0.5, Epochs=200, Lr=0.0001, NMI=0.38929, ARI=0.572, Train accuracy=0.89468, Test accuracy=0.81327
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.54603, ARI=0.70303, Train accuracy=0.92747, Test accuracy=0.81019
+Gamma=3, Epochs=200, Lr=0.0001, NMI=0.63672, ARI=0.78499, Train accuracy=0.94946, Test accuracy=0.83642
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.54254, ARI=0.70012, Train accuracy=0.9267, Test accuracy=0.82253
+Gamma=7, Epochs=200, Lr=0.0001, NMI=0.5421, ARI=0.70212, Train accuracy=0.92747, Test accuracy=0.80093
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.65691, ARI=0.80144, Train accuracy=0.95448, Test accuracy=0.8071
+Gamma=10, Epochs=200, Lr=0.005, NMI=0.53727, ARI=0.69784, Train accuracy=0.92631, Test accuracy=0.8179
+Gamma=0.5, Epochs=300, Lr=0.0001, NMI=0.5973, ARI=0.75002, Train accuracy=0.9402, Test accuracy=0.83642
+Gamma=1, Epochs=300, Lr=0.0001, NMI=0.58004, ARI=0.73424, Train accuracy=0.93596, Test accuracy=0.81636
+Gamma=3, Epochs=300, Lr=0.0001, NMI=0.68199, ARI=0.81869, Train accuracy=0.95872, Test accuracy=0.82562
+Gamma=5, Epochs=300, Lr=0.0001, NMI=0.5597, ARI=0.71991, Train accuracy=0.93248, Test accuracy=0.81636
+Gamma=7, Epochs=300, Lr=0.0001, NMI=0.5671, ARI=0.72886, Train accuracy=0.93519, Test accuracy=0.81636
+Gamma=9, Epochs=300, Lr=0.0001, NMI=0.61524, ARI=0.76991, Train accuracy=0.94599, Test accuracy=0.82716
+Gamma=10, Epochs=300, Lr=0.0001, NMI=0.6589, ARI=0.80382, Train accuracy=0.95486, Test accuracy=0.80556
+--------------------------------------------------------------------------------------------------
+MFC=60
+Gamma=0.5, Epochs=300, Lr=0.0001, NMI=0.64094, ARI=0.7906, Train accuracy=0.95139, Test accuracy=0.84414
+Gamma=1, Epochs=300, Lr=0.0001, NMI=0.62299, ARI=0.77669, Train accuracy=0.94792, Test accuracy=0.81636
+Gamma=3, Epochs=300, Lr=0.0001, NMI=0.63571, ARI=0.78517, Train accuracy=0.95062, Test accuracy=0.84105
+Gamma=7, Epochs=300, Lr=0.0001, NMI=0.68986, ARI=0.82607, Train accuracy=0.96026, Test accuracy=0.83951
+
+-----------------------------------------------------------------------------------------------------
+MFCC=80
+
+Gamma=0, Epochs=300, Lr=0.0001, NMI=0.00261, ARI=-0.00781, Train accuracy=0.78434, Test accuracy=0.79784
+Gamma=0.5, Epochs=300, Lr=0.0001, NMI=0.64669, ARI=0.79498, Train accuracy=0.95255, Test accuracy=0.82716
+Gamma=1, Epochs=300, Lr=0.0001, NMI=0.69968, ARI=0.83207, Train accuracy=0.96181, Test accuracy=0.8179
+Gamma=3, Epochs=300, Lr=0.0001, NMI=0.66332, ARI=0.80335, Train accuracy=0.95525, Test accuracy=0.81481
+Gamma=5, Epochs=300, Lr=0.0001, NMI=0.62397, ARI=0.77756, Train accuracy=0.9483, Test accuracy=0.81944
+Gamma=7, Epochs=300, Lr=0.0001, NMI=0.67414, ARI=0.81497, Train accuracy=0.95756, Test accuracy=0.82407
+
+---------------------------------------
+MFCC=60
+
+
+Gamma=0.5, Epochs=600, Lr=0.0001, NMI=0.65134, ARI=0.79597, Train accuracy=0.95216, Test accuracy=0.86265
+Gamma=3, Epochs=600, Lr=0.0001, NMI=0.69272, ARI=0.82895, Train accuracy=0.96065, Test accuracy=0.85185
+Gamma=3, Epochs=1000, Lr=0.0001, NMI=0.67488, ARI=0.816, Train accuracy=0.95756, Test accuracy=0.84414
+Gamma=0.5, Epochs=600, Lr=0.0001, NMI=0.69097, ARI=0.82284, Train accuracy=0.95988, Test accuracy=0.84414
+
+____________________________________
+Gamma=0, Epochs=300, Lr=0.0001, NMI=0.04147, ARI=0.09573, Train accuracy=0.67747, Test accuracy=0.68519
+Gamma=0.5, Epochs=300, Lr=0.0001, NMI=0.70061, ARI=0.8343, Train accuracy=0.96181, Test accuracy=0.87346
+Gamma=1, Epochs=300, Lr=0.0001, NMI=0.59584, ARI=0.75538, Train accuracy=0.9429, Test accuracy=0.86265
+Gamma=3, Epochs=300, Lr=0.0001, NMI=0.41509, ARI=0.59724, Train accuracy=0.90201, Test accuracy=0.88117
+Gamma=5, Epochs=300, Lr=0.0001, NMI=0.63636, ARI=0.78668, Train accuracy=0.95023, Test accuracy=0.87963
+
+--------------------------------------
+MFCC=80 and transpose
+Gamma=3, Epochs=220, Lr=0.0001, NMI=0.65749, ARI=0.80312, Train accuracy=0.95448, Test accuracy=0.88426
+Gamma=5, Epochs=220, Lr=0.0001, NMI=0.599, ARI=0.75252, Train accuracy=0.94329, Test accuracy=0.89815
+Gamma=7, Epochs=220, Lr=0.0001, NMI=0.68791, ARI=0.8255, Train accuracy=0.95988, Test accuracy=0.89815
+Gamma=9, Epochs=220, Lr=0.0001, NMI=0.6053, ARI=0.74918, Train accuracy=0.93943, Test accuracy=0.8642
+Gamma=10, Epochs=220, Lr=0.0001, NMI=0.71398, ARI=0.84386, Train accuracy=0.96412, Test accuracy=0.875
+
+_______________________
+MFCC=40 and transpose
+Gamma=0.5, Epochs=300, Lr=0.0001, NMI=0.70827, ARI=0.8394, Train accuracy=0.96296, Test accuracy=0.87654
+Gamma=1, Epochs=300, Lr=0.0001, NMI=0.71734, ARI=0.84603, Train accuracy=0.96489, Test accuracy=0.8858
+Gamma=3, Epochs=300, Lr=0.0001, NMI=0.43849, ARI=0.60296, Train accuracy=0.89931, Test accuracy=0.86265
+Gamma=5, Epochs=300, Lr=0.0001, NMI=0.5773, ARI=0.7395, Train accuracy=0.93943, Test accuracy=0.8966
+Gamma=7, Epochs=300, Lr=0.0001, NMI=0.53647, ARI=0.70611, Train accuracy=0.93094, Test accuracy=0.90586
+Gamma=9, Epochs=300, Lr=0.0001, NMI=0.7364, ARI=0.85941, Train accuracy=0.96798, Test accuracy=0.89352
+Gamma=10, Epochs=300, Lr=0.0001, NMI=0.72919, ARI=0.85425, Train accuracy=0.96682, Test accuracy=0.8642
+Gamma=7, Epochs=230, Lr=0.0001, NMI=0.53968, ARI=0.70831, Train accuracy=0.93171, Test accuracy=0.89198
+
+-----------------------------
+MFCC=40 and transpose -- for report
+
+
+Gamma=0, Epochs=200, Lr=0.0001, NMI=0.00432, ARI=-0.03355, Train accuracy=0.30093, Test accuracy=0.27623
+Gamma=0.5, Epochs=200, Lr=0.0001, NMI=0.59485, ARI=0.7505, Train accuracy=0.94059, Test accuracy=0.89352
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.57535, ARI=0.73767, Train accuracy=0.93904, Test accuracy=0.87809
+Gamma=2, Epochs=200, Lr=0.0001, NMI=0.50133, ARI=0.66541, Train accuracy=0.91744, Test accuracy=0.87037
+Gamma=3, Epochs=200, Lr=0.0001, NMI=0.67855, ARI=0.81518, Train accuracy=0.95679, Test accuracy=0.87346
+Gamma=4, Epochs=200, Lr=0.0001, NMI=0.48773, ARI=0.66169, Train accuracy=0.92052, Test accuracy=0.89352
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.55077, ARI=0.71826, Train accuracy=0.93326, Test accuracy=0.87654
+Gamma=6, Epochs=200, Lr=0.0001, NMI=0.57715, ARI=0.73198, Train accuracy=0.93866, Test accuracy=0.90123
+Gamma=7, Epochs=200, Lr=0.0001, NMI=0.47025, ARI=0.64842, Train accuracy=0.91551, Test accuracy=0.88272
+Gamma=8, Epochs=200, Lr=0.0001, NMI=0.58026, ARI=0.74282, Train accuracy=0.93981, Test accuracy=0.89043
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.7012, ARI=0.83494, Train accuracy=0.96219, Test accuracy=0.87963
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.60531, ARI=0.76276, Train accuracy=0.94444, Test accuracy=0.87809
+Gamma=11, Epochs=200, Lr=0.0001, NMI=0.71267, ARI=0.83779, Train accuracy=0.96219, Test accuracy=0.87809
+
+--------------------------------
+MFCC=80 and transpose -- for report
+
+
+Gamma=0, Epochs=400, Lr=0.0001, NMI=0.00118, ARI=0.01885, Train accuracy=0.73997, Test accuracy=0.74383
+Gamma=0.5, Epochs=400, Lr=0.0001, NMI=0.00035, ARI=-0.00057, Train accuracy=0.20949, Test accuracy=0.18981
+Gamma=1, Epochs=400, Lr=0.0001, NMI=0.76453, ARI=0.87814, Train accuracy=0.97222, Test accuracy=0.88889
+Gamma=2, Epochs=400, Lr=0.0001, NMI=0.57124, ARI=0.71554, Train accuracy=0.93017, Test accuracy=0.85494
+Gamma=4, Epochs=400, Lr=0.0001, NMI=0.66758, ARI=0.80995, Train accuracy=0.9564, Test accuracy=0.87654
+Gamma=6, Epochs=400, Lr=0.0001, NMI=0.75855, ARI=0.87434, Train accuracy=0.97145, Test accuracy=0.89969
+Gamma=7, Epochs=400, Lr=0.0001, NMI=0.75459, ARI=0.87158, Train accuracy=0.97068, Test accuracy=0.87191
+Gamma=9, Epochs=400, Lr=0.0001, NMI=0.70653, ARI=0.8344, Train accuracy=0.96142, Test accuracy=0.85957
+Gamma=10, Epochs=400, Lr=0.0001, NMI=0.34287, ARI=0.51681, Train accuracy=0.87539, Test accuracy=0.83951
+
+--------------------------------
+MFCC=40 and transpose -- for report
+
+
+Gamma=0.5, Epochs=200, Lr=0.0001, NMI=0.47407, ARI=0.64973, Train accuracy=0.91744, Test accuracy=0.89506
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.52812, ARI=0.69691, Train accuracy=0.92708, Test accuracy=0.89352
+Gamma=2, Epochs=200, Lr=0.0001, NMI=0.51462, ARI=0.68302, Train accuracy=0.92631, Test accuracy=0.88889
+Gamma=4, Epochs=200, Lr=0.0001, NMI=0.47574, ARI=0.65109, Train accuracy=0.91782, Test accuracy=0.89043
+Gamma=6, Epochs=200, Lr=0.0001, NMI=0.46897, ARI=0.6406, Train accuracy=0.91127, Test accuracy=0.88272
+Gamma=7, Epochs=200, Lr=0.0001, NMI=0.32172, ARI=0.50307, Train accuracy=0.87847, Test accuracy=0.88117
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.50527, ARI=0.67156, Train accuracy=0.924, Test accuracy=0.88117
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.58396, ARI=0.74251, Train accuracy=0.93866, Test accuracy=0.87654
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.48915, ARI=0.66535, Train accuracy=0.91975, Test accuracy=0.91358
+Gamma=1, Epochs=400, Lr=0.0001, NMI=0.49086, ARI=0.65809, Train accuracy=0.9159, Test accuracy=0.8966
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.58731, ARI=0.74444, Train accuracy=0.93904, Test accuracy=0.82562
+Gamma=2, Epochs=200, Lr=0.0001, NMI=0.56394, ARI=0.72201, Train accuracy=0.93287, Test accuracy=0.81944
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.57375, ARI=0.73704, Train accuracy=0.93789, Test accuracy=0.88117
+Gamma=1, Epochs=150, Lr=0.0001, NMI=0.60297, ARI=0.75936, Train accuracy=0.94444, Test accuracy=0.89969
+Gamma=1, Epochs=150, Lr=0.0001, NMI=0.54963, ARI=0.71576, Train accuracy=0.9321, Test accuracy=0.88426
+Gamma=2, Epochs=150, Lr=0.0001, NMI=0.52576, ARI=0.69735, Train accuracy=0.92824, Test accuracy=0.87654
+
+--------------------------MFCC=80 , timesteps=128---------------------------
+Gamma=0, Epochs=150, Lr=0.0001, NMI=0.0, ARI=0.0, Train accuracy=0.20563, Test accuracy=0.2037
+Gamma=0.5, Epochs=150, Lr=0.0001, NMI=0.34883, ARI=0.53211, Train accuracy=0.88735, Test accuracy=0.87963
+Gamma=1, Epochs=150, Lr=0.0001, NMI=0.42126, ARI=0.60345, Train accuracy=0.90355, Test accuracy=0.87654
+Gamma=3, Epochs=150, Lr=0.0001, NMI=0.44121, ARI=0.61179, Train accuracy=0.91049, Test accuracy=0.8966
+Gamma=5, Epochs=150, Lr=0.0001, NMI=0.63715, ARI=0.78444, Train accuracy=0.94946, Test accuracy=0.88426
+Gamma=7, Epochs=200, Lr=0.0001, NMI=0.59023, ARI=0.74947, Train accuracy=0.94097, Test accuracy=0.87963
+
+Gamma=7, Epochs=150, Lr=0.0001, NMI=0.48264, ARI=0.65501, Train accuracy=0.9159, Test accuracy=0.88426
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.45603, ARI=0.62687, Train accuracy=0.91397, Test accuracy=0.89815
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.43816, ARI=0.61954, Train accuracy=0.90972, Test accuracy=0.89815
+Gamma=9, Epochs=150, Lr=0.0001, NMI=0.53771, ARI=0.70835, Train accuracy=0.93133, Test accuracy=0.88117
+Gamma=10, Epochs=150, Lr=0.0001, NMI=0.51779, ARI=0.65921, Train accuracy=0.91435, Test accuracy=0.85031
+--------------------MFCC=40 , timesteps=128-------------------------
+
+Gamma=0, Epochs=200, Lr=0.0001, NMI=0.0, ARI=0.0, Train accuracy=0.79012, Test accuracy=0.81327
+Gamma=0.5, Epochs=200, Lr=0.0001, NMI=0.58022, ARI=0.74227, Train accuracy=0.93981, Test accuracy=0.8966
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.54165, ARI=0.71062, Train accuracy=0.93171, Test accuracy=0.8966
+Gamma=3, Epochs=200, Lr=0.0001, NMI=0.59387, ARI=0.74938, Train accuracy=0.9402, Test accuracy=0.89352
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.61869, ARI=0.77286, Train accuracy=0.94676, Test accuracy=0.90895
+Gamma=7, Epochs=200, Lr=0.0001, NMI=0.35912, ARI=0.51692, Train accuracy=0.88812, Test accuracy=0.87809
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.48716, ARI=0.66212, Train accuracy=0.92014, Test accuracy=0.88735
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.56435, ARI=0.72532, Train accuracy=0.93403, Test accuracy=0.89352
+----------------------------MFCC=20-------------------------------------------------
+Gamma=0, Epochs=200, Lr=0.0001, NMI=0.00012, ARI=0.00358, Train accuracy=0.39468, Test accuracy=0.38889
+Gamma=0.5, Epochs=200, Lr=0.0001, NMI=0.14517, ARI=0.26094, Train accuracy=0.83372, Test accuracy=0.82562
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.26604, ARI=0.44274, Train accuracy=0.86651, Test accuracy=0.83642
+Gamma=3, Epochs=200, Lr=0.0001, NMI=0.21875, ARI=0.39172, Train accuracy=0.85031, Test accuracy=0.83951
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.14084, ARI=0.24515, Train accuracy=0.83256, Test accuracy=0.8071
+Gamma=7, Epochs=200, Lr=0.0001, NMI=5e-05, ARI=0.00103, Train accuracy=0.79514, Test accuracy=0.78086
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.0, ARI=0.0, Train accuracy=0.79784, Test accuracy=0.78241
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.3029, ARI=0.48579, Train accuracy=0.87153, Test accuracy=0.875
+
+
+------------------------MFCC=60--------------------------------
+Gamma=0, Epochs=200, Lr=0.0001, NMI=0.0709, ARI=-0.08116, Train accuracy=0.43094, Test accuracy=0.41667
+Gamma=0.5, Epochs=200, Lr=0.0001, NMI=0.39922, ARI=0.57439, Train accuracy=0.89313, Test accuracy=0.87191
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.47829, ARI=0.65061, Train accuracy=0.91474, Test accuracy=0.89815
+Gamma=3, Epochs=200, Lr=0.0001, NMI=0.53012, ARI=0.70207, Train accuracy=0.92978, Test accuracy=0.88426
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.3274, ARI=0.5081, Train accuracy=0.87577, Test accuracy=0.85494
+Gamma=7, Epochs=200, Lr=0.0001, NMI=0.44717, ARI=0.6273, Train accuracy=0.91242, Test accuracy=0.88426
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.44357, ARI=0.6255, Train accuracy=0.91088, Test accuracy=0.87809
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.59952, ARI=0.75711, Train accuracy=0.94367, Test accuracy=0.88426
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.57555, ARI=0.73793, Train accuracy=0.93789, Test accuracy=0.90123
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.55849, ARI=0.72403, Train accuracy=0.93441, Test accuracy=0.89506
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.51251, ARI=0.67583, Train accuracy=0.9246, Test accuracy=0.893
+Gamma=5, Epochs=250, Lr=0.0001, NMI=0.48493, ARI=0.60721, Train accuracy=0.89738, Test accuracy=0.83179
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.42755, ARI=0.58902, Train accuracy=0.90509, Test accuracy=0.89969
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.0, ARI=0.0, Train accuracy=0.79012, Test accuracy=0.81327
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.50235, ARI=0.67669, Train accuracy=0.92323, Test accuracy=0.87963
+
+
+-----------------MFCC=40, timesteps=64---------------------------
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.60606, ARI=0.75048, Train accuracy=0.94059, Test accuracy=0.86728
+
+Gamma=0, Epochs=200, Lr=0.0001, NMI=0.0, ARI=0.0, Train accuracy=0.20023, Test accuracy=0.22531
+Gamma=0.5, Epochs=200, Lr=0.0001, NMI=0.47664, ARI=0.65604, Train accuracy=0.92014, Test accuracy=0.88272
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.59179, ARI=0.74556, Train accuracy=0.93981, Test accuracy=0.88272, NMI Test=0.37986, ARI Test0.54986
+Gamma=3, Epochs=200, Lr=0.0001, NMI=0.50229, ARI=0.64379, Train accuracy=0.91049, Test accuracy=0.87963, NMI Test=0.39593, ARI Test0.54841
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.58123, ARI=0.74372, Train accuracy=0.9402, Test accuracy=0.88889, NMI Test=0.38283, ARI Test0.5599
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.59875, ARI=0.75371, Train accuracy=0.94213, Test accuracy=0.89043, NMI Test=0.39904, ARI Test0.57265
+Gamma=3, Epochs=200, Lr=0.0001, NMI=0.57046, ARI=0.73551, Train accuracy=0.93827, Test accuracy=0.88426, NMI Test=0.37453, ARI Test0.54972
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.49507, ARI=0.64573, Train accuracy=0.91165, Test accuracy=0.88272, NMI Test=0.40641, ARI Test0.55845
+Gamma=7, Epochs=200, Lr=0.0001, NMI=0.54399, ARI=0.71302, Train accuracy=0.93248, Test accuracy=0.8858, NMI Test=0.38413, ARI Test0.55738
+Gamma=9, Epochs=200, Lr=0.0001, NMI=0.58631, ARI=0.74215, Train accuracy=0.93904, Test accuracy=0.87037, NMI Test=0.34249, ARI Test0.51045
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.55182, ARI=0.70831, Train accuracy=0.92978, Test accuracy=0.89198, NMI Test=0.41603, ARI Test0.58276
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.41558, ARI=0.59631, Train accuracy=0.90471, Test accuracy=0.8966, NMI Test=0.37938, ARI Test=0.55956AMI =0.41535AMI test=0.37836time steps=256
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.24477, ARI=0.37445, Train accuracy=0.8588, Test accuracy=0.87037, NMI Test=0.29221, ARI Test=0.41391AMI =0.24441AMI test=0.29085time steps=256
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.0, ARI=0.0, Train accuracy=0.79437, Test accuracy=0.7963, NMI Test=0.0, ARI Test=0.0AMI =-0.0AMI test=-0.0time steps=256
+
+---------------------------MFCC=40 , timesteps=128 ,duration=10--------------------
+
+Gamma=1, Epochs=200, Lr=0.0001, NMI=0.41828, ARI=0.60125, Train accuracy=0.90394, Test accuracy=0.90586, NMI Test=0.42779, ARI Test=0.61007AMI =0.41805AMI test=0.42691time steps=128
+Gamma=5, Epochs=200, Lr=0.0001, NMI=0.5343, ARI=0.70497, Train accuracy=0.93017, Test accuracy=0.90741, NMI Test=0.43491, ARI Test=0.61638AMI =0.53412AMI test=0.43404time steps=128
+Gamma=10, Epochs=200, Lr=0.0001, NMI=0.4746, ARI=0.64879, Train accuracy=0.91435, Test accuracy=0.89506, NMI Test=0.38776, ARI Test=0.57114AMI =0.4744AMI test=0.38682time steps=128
+
+-----------Adam(learning_rate=0.001, beta_1=0.9, beta_2=0.999, amsgrad=True)-------------------
+Gamma=5, Epochs=200, Lr=0.0001,  NMI=0.55664, ARI=0.72402, Train accuracy=0.93557, Test accuracy=0.91512, NMI Test=0.46015, ARI Test=0.64158, AMI =0.55647, AMI test=0.4593, time steps=128
+
+Gamma=1, Epochs=200, Lr=0.0001,  NMI=0.43186, ARI=0.61281, Train accuracy=0.90818, Test accuracy=0.90741, NMI Test=0.42772, ARI Test=0.61169, AMI =0.43164, AMI test=0.42683, time steps=128
+Gamma=3, Epochs=200, Lr=0.0001,  NMI=0.53486, ARI=0.70049, Train accuracy=0.92785, Test accuracy=0.89352, NMI Test=0.39538, ARI Test=0.57233, AMI =0.53469, AMI test=0.39447, time steps=128
+Gamma=5, Epochs=200, Lr=0.0001,  NMI=0.3923, ARI=0.5687, Train accuracy=0.89892, Test accuracy=0.90895, NMI Test=0.42651, ARI Test=0.60665, AMI =0.39206, AMI test=0.42558, time steps=128
+Gamma=6, Epochs=200, Lr=0.0001,  NMI=0.43389, ARI=0.60449, Train accuracy=0.90856, Test accuracy=0.90586, NMI Test=0.41365, ARI Test=0.58886, AMI =0.43366, AMI test=0.41267, time steps=128
+Gamma=7, Epochs=200, Lr=0.0001,  NMI=0.42955, ARI=0.60965, Train accuracy=0.90779, Test accuracy=0.90278, NMI Test=0.40867, ARI Test=0.59372, AMI =0.42933, AMI test=0.40774, time steps=128
+Gamma=9, Epochs=200, Lr=0.0001,  NMI=0.5177, ARI=0.68579, Train accuracy=0.924, Test accuracy=0.89352, NMI Test=0.40103, ARI Test=0.57464, AMI =0.51752, AMI test=0.40013, time steps=128
+Gamma=10, Epochs=200, Lr=0.0001,  NMI=0.47263, ARI=0.64715, Train accuracy=0.91782, Test accuracy=0.91204, NMI Test=0.44337, ARI Test=0.62628, AMI =0.47242, AMI test=0.44249, time steps=128
+Gamma=12, Epochs=200, Lr=0.0001,  NMI=0.44512, ARI=0.62625, Train accuracy=0.91011, Test accuracy=0.89969, NMI Test=0.40829, ARI Test=0.58975, AMI =0.44491, AMI test=0.40739, time steps=128
+
+---------------------same process for 60------------------------
+
+
+Gamma=0, Epochs=200, Lr=0.0001,  NMI=0.0, ARI=0.0, Train accuracy=0.2064, Test accuracy=0.20062, NMI Test=0.0, ARI Test=0.0, AMI =0.0, AMI test=-0.0, time steps=128
+Gamma=0.5, Epochs=200, Lr=0.0001,  NMI=0.49709, ARI=0.67153, Train accuracy=0.92323, Test accuracy=0.90741, NMI Test=0.42376, ARI Test=0.60797, AMI =0.49689, AMI test=0.42285, time steps=128
+Gamma=1, Epochs=200, Lr=0.0001,  NMI=0.41937, ARI=0.60201, Train accuracy=0.90471, Test accuracy=0.90741, NMI Test=0.42772, ARI Test=0.61169, AMI =0.41914, AMI test=0.42683, time steps=128
+Gamma=3, Epochs=200, Lr=0.0001,  NMI=0.55937, ARI=0.72505, Train accuracy=0.93634, Test accuracy=0.91512, NMI Test=0.45471, ARI Test=0.6358, AMI =0.5592, AMI test=0.45383, time steps=128
+Gamma=5, Epochs=200, Lr=0.0001,  NMI=0.41163, ARI=0.59467, Train accuracy=0.90278, Test accuracy=0.90895, NMI Test=0.42954, ARI Test=0.61322, AMI =0.41141, AMI test=0.42863, time steps=128
+Gamma=6, Epochs=200, Lr=0.0001,  NMI=0.46841, ARI=0.64533, Train accuracy=0.91397, Test accuracy=0.91358, NMI Test=0.46428, ARI Test=0.64161, AMI =0.46821, AMI test=0.46346, time steps=128
+Gamma=7, Epochs=200, Lr=0.0001,  NMI=0.45978, ARI=0.63639, Train accuracy=0.91127, Test accuracy=0.89969, NMI Test=0.41564, ARI Test=0.59322, AMI =0.45958, AMI test=0.41476, time steps=128
+Gamma=9, Epochs=200, Lr=0.0001,  NMI=0.42877, ARI=0.60712, Train accuracy=0.90316, Test accuracy=0.87809, NMI Test=0.35291, ARI Test=0.52391, AMI =0.42856, AMI test=0.35195, time steps=128
+Gamma=10, Epochs=200, Lr=0.0001,  NMI=0.52862, ARI=0.69903, Train accuracy=0.92824, Test accuracy=0.89506, NMI Test=0.3922, ARI Test=0.57363, AMI =0.52844, AMI test=0.39128, time steps=128
+Gamma=12, Epochs=200, Lr=0.0001,  NMI=0.43951, ARI=0.62113, Train accuracy=0.90934, Test accuracy=0.90432, NMI Test=0.42076, ARI Test=0.60376, AMI =0.43929, AMI test=0.41987, time steps=128
+
+------------------------------for 40----------------------------
+
+Gamma=0, Epochs=200, Lr=0.0001,  NMI=0.00612, ARI=-0.01772, Train accuracy=0.45062, Test accuracy=0.42747, NMI Test=0.00018, ARI Test=0.00223, AMI =0.00579, AMI test=-0.00116, time steps=128
+Gamma=0.5, Epochs=200, Lr=0.0001,  NMI=0.34132, ARI=0.51629, Train accuracy=0.88542, Test accuracy=0.89198, NMI Test=0.34668, ARI Test=0.52871, AMI =0.34105, AMI test=0.34557, time steps=128
+Gamma=1, Epochs=200, Lr=0.0001,  NMI=0.4215, ARI=0.60062, Train accuracy=0.90548, Test accuracy=0.89815, NMI Test=0.3744, ARI Test=0.56098, AMI =0.42128, AMI test=0.37337, time steps=128
+Gamma=3, Epochs=200, Lr=0.0001,  NMI=0.31968, ARI=0.50204, Train accuracy=0.87539, Test accuracy=0.86111, NMI Test=0.2647, ARI Test=0.44548, AMI =0.31942, AMI test=0.26354, time steps=128
+Gamma=5, Epochs=200, Lr=0.0001,  NMI=0.38504, ARI=0.56229, Train accuracy=0.8966, Test accuracy=0.88272, NMI Test=0.31416, ARI Test=0.49944, AMI =0.38479, AMI test=0.31302, time steps=128
+Gamma=6, Epochs=200, Lr=0.0001,  NMI=0.55239, ARI=0.72012, Train accuracy=0.93403, Test accuracy=0.87809, NMI Test=0.32169, ARI Test=0.50603, AMI =0.55222, AMI test=0.32063, time steps=128
+Gamma=7, Epochs=200, Lr=0.0001,  NMI=0.40568, ARI=0.57996, Train accuracy=0.90162, Test accuracy=0.89198, NMI Test=0.34668, ARI Test=0.52871, AMI =0.40544, AMI test=0.34557, time steps=128
+Gamma=9, Epochs=200, Lr=0.0001,  NMI=0.40769, ARI=0.58019, Train accuracy=0.90201, Test accuracy=0.90123, NMI Test=0.38462, ARI Test=0.56291, AMI =0.40745, AMI test=0.38357, time steps=128
+Gamma=10, Epochs=200, Lr=0.0001,  NMI=0.4064, ARI=0.58926, Train accuracy=0.90085, Test accuracy=0.87963, NMI Test=0.31356, ARI Test=0.50083, AMI =0.40617, AMI test=0.31246, time steps=128
+Gamma=12, Epochs=200, Lr=0.0001,  NMI=0.41428, ARI=0.59684, Train accuracy=0.90278, Test accuracy=0.89815, NMI Test=0.3777, ARI Test=0.56571, AMI =0.41406, AMI test=0.37669, time steps=128
+
+----------------------for 80 ---------------------------------------
+
+
+Gamma=0, Epochs=200, Lr=0.0001,  NMI=0.0, ARI=0.0, Train accuracy=0.78935, Test accuracy=0.81636, NMI Test=0.0, ARI Test=0.0, AMI =-0.0 AMI, test=-0.0, time steps=128
+Gamma=0.5, Epochs=200, Lr=0.0001,  NMI=0.4441, ARI=0.62043, Train accuracy=0.91011, Test accuracy=0.90741, NMI Test=0.39505, ARI Test=0.58148, AMI =0.44388, AMI test=0.394, time steps=128
+Gamma=1, Epochs=200, Lr=0.0001,  NMI=0.41833, ARI=0.59461, Train accuracy=0.90394, Test accuracy=0.89506, NMI Test=0.34177, ARI Test=0.52804, AMI =0.4181, AMI test=0.34061, time steps=128
+Gamma=3, Epochs=200, Lr=0.0001,  NMI=0.4089, ARI=0.57817, Train accuracy=0.90123, Test accuracy=0.90123, NMI Test=0.3672, ARI Test=0.54455, AMI =0.40866, AMI test=0.36605, time steps=128
+Gamma=5, Epochs=200, Lr=0.0001,  NMI=0.45131, ARI=0.62744, Train accuracy=0.90818, Test accuracy=0.88272, NMI Test=0.31651, ARI Test=0.50653, AMI =0.45111, AMI test=0.31539, time steps=128
+Gamma=6, Epochs=200, Lr=0.0001,  NMI=0.46087, ARI=0.63766, Train accuracy=0.91397, Test accuracy=0.90278, NMI Test=0.37634, ARI Test=0.56559, AMI =0.46066, AMI test=0.37527, time steps=128
+Gamma=7, Epochs=200, Lr=0.0001,  NMI=0.45151, ARI=0.63076, Train accuracy=0.91049, Test accuracy=0.8966, NMI Test=0.35661, ARI Test=0.54864, AMI =0.45131,AMI test=0.35553, time steps=128
+Gamma=9, Epochs=200, Lr=0.0001,  NMI=0.47869, ARI=0.65561, Train accuracy=0.91744, Test accuracy=0.90432, NMI Test=0.3817, ARI Test=0.569, AMI =0.4785 AMI, test=0.38063, time steps=128
+Gamma=10, Epochs=200, Lr=0.0001,  NMI=0.47774, ARI=0.65475, Train accuracy=0.91705, Test accuracy=0.89815, NMI Test=0.36511, ARI Test=0.55725, AMI =0.47754, AMI test=0.36405, time steps=128
+Gamma=12, Epochs=200, Lr=0.0001,  NMI=0.57932, ARI=0.72424, Train accuracy=0.93248, Test accuracy=0.8858, NMI Test=0.3426, ARI Test=0.52805, AMI =0.57917, AMI test=0.34156, time steps=128
+
+------------------
+
+Gamma=6, Epochs=200, Lr=0.0001,  NMI=0.49206, ARI=0.64769, Train accuracy=0.9213, Test accuracy=0.89506, NMI Test=0.40243, ARI Test=0.55745 AMI =0.49185 AMI test=0.40145 time steps=128
+-------------------60 features---------------------
+Gamma=6, Epochs=200, Lr=0.0001,  NMI=0.53617, ARI=0.70224, Train accuracy=0.92824, Test accuracy=0.8966, NMI Test=0.3899, ARI Test=0.5736 AMI =0.536 AMI test=0.38895 time steps=128
+
+-----------------------------60 duration=5--------------------lr=0.01------------------
+Gamma=0, Epochs=200, Lr=0.0001,  NMI=0.00235, ARI=-0.00798, Train accuracy=0.53511, Test accuracy=0.56636, NMI Test=0.00073, ARI Test=0.00465 AMI =0.00203 AMI test=-0.0006 time steps=128
+Gamma=0.5, Epochs=200, Lr=0.0001,  NMI=0.52868, ARI=0.69614, Train accuracy=0.9267, Test accuracy=0.8858, NMI Test=0.34483, ARI Test=0.531 AMI =0.52851 AMI test=0.3438 time steps=128
+Gamma=1, Epochs=200, Lr=0.0001,  NMI=0.6107, ARI=0.7665, Train accuracy=0.94522, Test accuracy=0.89043, NMI Test=0.35593, ARI Test=0.54392 AMI =0.61055 AMI test=0.3549 time steps=128
+Gamma=3, Epochs=200, Lr=0.0001,  NMI=0.4111, ARI=0.58789, Train accuracy=0.89699, Test accuracy=0.90432, NMI Test=0.41145, ARI Test=0.59753 AMI =0.41088 AMI test=0.41052 time steps=128
+Gamma=5, Epochs=200, Lr=0.0001,  NMI=0.4984, ARI=0.67341, Train accuracy=0.92284, Test accuracy=0.89815, NMI Test=0.37553, ARI Test=0.56411 AMI =0.4982 AMI test=0.37451 time steps=128
+Gamma=6, Epochs=200, Lr=0.0001,  NMI=0.4407, ARI=0.61225, Train accuracy=0.90972, Test accuracy=0.89815, NMI Test=0.37055, ARI Test=0.55592 AMI =0.44048 AMI test=0.36949 time steps=128
+Gamma=7, Epochs=200, Lr=0.0001,  NMI=0.59515, ARI=0.75241, Train accuracy=0.94136, Test accuracy=0.88889, NMI Test=0.34743, ARI Test=0.53595 AMI =0.595 AMI test=0.34639 time steps=128
+Gamma=9, Epochs=200, Lr=0.0001,  NMI=0.49756, ARI=0.67299, Train accuracy=0.92245, Test accuracy=0.89198, NMI Test=0.34822, ARI Test=0.53578 AMI =0.49736 AMI test=0.34714 time steps=128
+Gamma=10, Epochs=200, Lr=0.0001,  NMI=0.50546, ARI=0.66828, Train accuracy=0.91821, Test accuracy=0.88117, NMI Test=0.33002, ARI Test=0.51532 AMI =0.50527 AMI test=0.32897 time steps=128
+Gamma=12, Epochs=200, Lr=0.0001,  NMI=0.45038, ARI=0.6305, Train accuracy=0.91088, Test accuracy=0.8966, NMI Test=0.37172, ARI Test=0.56062 AMI =0.45018 AMI test=0.3707 time steps=128
+
+
+----pascal------------------------40--------------------------duartion=5------------------------
+
+
+Gamma=0, Epochs=200, Lr=0.0001,  NMI=0.00179, ARI=0.01081, Train accuracy=0.41284, Test accuracy=0.38532, NMI Test=0.00719, ARI Test=0.02425 AMI =-0.0001 AMI test=-0.00051 time steps=128
+Gamma=0.5, Epochs=200, Lr=0.0001,  NMI=0.15532, ARI=0.2316, Train accuracy=0.74312, Test accuracy=0.6789, NMI Test=0.0564, ARI Test=0.10866 AMI =0.15385 AMI test=0.04935 time steps=128
+Gamma=1, Epochs=500, Lr=0.0001,  NMI=0.20405, ARI=0.30203, Train accuracy=0.77982, Test accuracy=0.70642, NMI Test=0.09146, ARI Test=0.15517 AMI =0.20258 AMI test=0.08478 time steps=128
+Gamma=3, Epochs=500, Lr=0.0001,  NMI=0.30618, ARI=0.37062, Train accuracy=0.80505, Test accuracy=0.66055, NMI Test=0.05889, ARI Test=0.09237 AMI =0.30499 AMI test=0.05217 time steps=128
+Gamma=1, Epochs=1000, Lr=0.0001,  NMI=0.2294, ARI=0.26601, Train accuracy=0.77064, Test accuracy=0.74312, NMI Test=0.12856, ARI Test=0.19748 AMI =0.22777 AMI test=0.121 time steps=128
+Gamma=1, Epochs=400, Lr=0.0001,  NMI=0.16945, ARI=0.25094, Train accuracy=0.75917, Test accuracy=0.74312, NMI Test=0.12782, ARI Test=0.21358 AMI =0.16785 AMI test=0.12106 time steps=77
+Gamma=1, Epochs=400, Lr=0.0001,  NMI=0.05898, ARI=0.00909, Train accuracy=0.5711, Test accuracy=0.46789, NMI Test=0.00341, ARI Test=-0.01817 AMI =0.05729 AMI test=-0.00403 time steps=128
