@@ -1,10 +1,10 @@
 
 
 configuartion = {
-    "client_counts": "15",
+    "client_counts": "100",
     "gamma": "1",
     "local_epochs": "20",
-    "server_rounds": "10",
+    "server_rounds": "100",
     "batch_size" :"64",
     "features" : "40" ,
     "timesteps" :"128",
