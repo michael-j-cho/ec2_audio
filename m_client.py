@@ -169,7 +169,7 @@ def main() -> None:
     # Start Flower client
     client = CifarClient(model, x_train, y_train, x_test, y_test)
     #fl.client.start_numpy_client("98.203.218.187:8080", client=client)
-    fl.client.start_numpy_client("127.0.0.1:8080", client=client)
+    fl.client.start_numpy_client("98.203.218.187:8080", client=client)
 
 def load_processed_data(clinet_index,total_no_clients):
 

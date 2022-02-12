@@ -1,7 +1,7 @@
 
 
 configuartion = {
-    "client_counts": "100",
+    "client_counts": "2",
     "gamma": "1",
     "local_epochs": "20",
     "server_rounds": "100",
